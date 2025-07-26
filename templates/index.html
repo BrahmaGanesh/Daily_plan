@@ -1,0 +1,28 @@
+{% extends "layout.html" %}
+{% block content %}
+<h1>120-Day ASIC Verification Plan</h1>
+<table class="plan-table">
+  <thead>
+    <tr>
+      <th>Day</th>
+      <th>Date</th>
+      <th>Topic</th>
+      <th>Duration</th>
+      <th>Sub-topic 1 (Time)</th>
+      <th>Sub-topic 2 (Time)</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for entry in plan %}
+  <tr class="{{ 'completed' if entry.completed else '' }}" data-date="{{ entry.date }}">
+    <td>{{ loop.index }}</td>  {# 1-based index of the iteration #}
+    <td>{{ entry.date }}</td>
+    <td>{{ entry.topic }}</td>
+    <td>{{ entry.duration }}</td>
+    <td>{{ entry.sub1 }} ({{ entry.time1 }})</td>
+    <td>{{ entry.sub2 }} ({{ entry.time2 }})</td>
+  </tr>
+  {% endfor %}
+</tbody>
+</table>
+{% endblock %}

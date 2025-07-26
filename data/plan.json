@@ -1,0 +1,1202 @@
+[
+  {
+    "date": "2025-07-28",
+    "topic": "Verilog syntax & coding guidelines",
+    "duration": "3 hrs",
+    "sub1": "Verilog coding style",
+    "time1": "1h 30m",
+    "sub2": "Module hierarchy",
+    "time2": "1h 30m",
+    "completed": false
+  },
+  {
+    "date": "2025-07-29",
+    "topic": "Number systems, logic gates, FSMs",
+    "duration": "3 hrs",
+    "sub1": "Combinational logic review",
+    "time1": "1h",
+    "sub2": "Sequential circuits deep-dive",
+    "time2": "2h",
+    "completed": false
+  },
+  {
+    "date": "2025-07-30",
+    "topic": "SystemVerilog data types & interfaces",
+    "duration": "3 hrs",
+    "sub1": "SV data types & interfaces",
+    "time1": "1h",
+    "sub2": "Interfaces & packages",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-07-31",
+    "topic": "SV OOP: classes & randomization",
+    "duration": "3 hrs",
+    "sub1": "OOP basics in SV",
+    "time1": "1h",
+    "sub2": "Random constraints",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-01",
+    "topic": "SV Assertions & covergroups",
+    "duration": "3 hrs",
+    "sub1": "Assertions: basics and syntax",
+    "time1": "1h",
+    "sub2": "Covergroups advanced",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-02",
+    "topic": "UVM env & basic agent",
+    "duration": "3 hrs",
+    "sub1": "UVM env structure",
+    "time1": "1h",
+    "sub2": "UVM agents interaction",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-03",
+    "topic": "UVM driver & monitor",
+    "duration": "3 hrs",
+    "sub1": "Drivers & monitors",
+    "time1": "1h",
+    "sub2": "Scoreboard basics",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-04",
+    "topic": "UVM sequences & factory",
+    "duration": "3 hrs",
+    "sub1": "Sequences & factories",
+    "time1": "1h",
+    "sub2": "Sequence variants",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-05",
+    "topic": "Coverage metrics & reports",
+    "duration": "3 hrs",
+    "sub1": "Coverage metrics",
+    "time1": "1h",
+    "sub2": "Coverage closure",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-06",
+    "topic": "Clock-domain crossing basics",
+    "duration": "3 hrs",
+    "sub1": "Clock-domain crossing concepts",
+    "time1": "1h",
+    "sub2": "Clock-domain crossing verification",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-07",
+    "topic": "Verilog testbench architecture",
+    "duration": "3 hrs",
+    "sub1": "Testbench organization",
+    "time1": "1h",
+    "sub2": "Testbench layers",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-08",
+    "topic": "SV functional coverage deeper dive",
+    "duration": "3 hrs",
+    "sub1": "Functional coverage deep dive",
+    "time1": "1h",
+    "sub2": "Functional coverage analysis",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-09",
+    "topic": "Coverpoint & cross coverage",
+    "duration": "3 hrs",
+    "sub1": "Coverpoints",
+    "time1": "1h",
+    "sub2": "Cross coverage",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-10",
+    "topic": "Assertions patterns & examples",
+    "duration": "3 hrs",
+    "sub1": "Assertions examples",
+    "time1": "1h",
+    "sub2": "Advanced assertion techniques",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-11",
+    "topic": "Protocol VIP introduction: APB",
+    "duration": "3 hrs",
+    "sub1": "APB protocol intro",
+    "time1": "1h",
+    "sub2": "APB protocol signals",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-12",
+    "topic": "Protocol VIP project: I2C",
+    "duration": "3 hrs",
+    "sub1": "I2C protocol project",
+    "time1": "1h",
+    "sub2": "I2C multi-master",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-13",
+    "topic": "Protocol VIP project: SPI",
+    "duration": "3 hrs",
+    "sub1": "SPI protocol project",
+    "time1": "1h",
+    "sub2": "SPI burst transfer",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-14",
+    "topic": "Protocol VIP project: UART",
+    "duration": "3 hrs",
+    "sub1": "UART protocol project",
+    "time1": "1h",
+    "sub2": "UART parity handling",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-15",
+    "topic": "AHB protocol verification project",
+    "duration": "3 hrs",
+    "sub1": "AHB bus basics",
+    "time1": "1h",
+    "sub2": "AHB bus bridge",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-16",
+    "topic": "AXI4-Lite protocol verification project",
+    "duration": "3 hrs",
+    "sub1": "AXI4-Lite protocol",
+    "time1": "1h",
+    "sub2": "AXI4 full protocol",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-17",
+    "topic": "Ethernet MAC project overview",
+    "duration": "3 hrs",
+    "sub1": "Ethernet MAC overview",
+    "time1": "1h",
+    "sub2": "Ethernet framing",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-18",
+    "topic": "USB 2.0 controller verification",
+    "duration": "3 hrs",
+    "sub1": "USB 2.0 protocol",
+    "time1": "1h",
+    "sub2": "USB endpoint",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-19",
+    "topic": "DDR controller verification",
+    "duration": "3 hrs",
+    "sub1": "DDR controller basics",
+    "time1": "1h",
+    "sub2": "DDR controller timing",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-20",
+    "topic": "PCIe Gen3 endpoint verification",
+    "duration": "3 hrs",
+    "sub1": "PCIe Gen3 intro",
+    "time1": "1h",
+    "sub2": "PCIe Gen3 lanes",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-21",
+    "topic": "UVM Register Abstraction Layer (RAL)",
+    "duration": "3 hrs",
+    "sub1": "UVM RAL concepts",
+    "time1": "1h",
+    "sub2": "Register modeling",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-22",
+    "topic": "Scoreboard & reference model construction",
+    "duration": "3 hrs",
+    "sub1": "Scoreboard design",
+    "time1": "1h",
+    "sub2": "Reference models",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-23",
+    "topic": "Constraint randomization scenarios",
+    "duration": "3 hrs",
+    "sub1": "Random constraint writing",
+    "time1": "1h",
+    "sub2": "Constrained random coverage",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-24",
+    "topic": "Debugging & waveform analysis basics",
+    "duration": "3 hrs",
+    "sub1": "Debugging basics",
+    "time1": "1h",
+    "sub2": "Waveform debugging",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-25",
+    "topic": "Formal verification introduction",
+    "duration": "3 hrs",
+    "sub1": "Formal verification intro",
+    "time1": "1h",
+    "sub2": "Formal properties",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-26",
+    "topic": "Low-power verification fundamentals",
+    "duration": "3 hrs",
+    "sub1": "Low-power techniques",
+    "time1": "1h",
+    "sub2": "Power gating",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-27",
+    "topic": "Python basics: syntax & scripting",
+    "duration": "3 hrs",
+    "sub1": "Python syntax",
+    "time1": "1h",
+    "sub2": "Python loops & functions",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-28",
+    "topic": "Python file IO & log parsing",
+    "duration": "3 hrs",
+    "sub1": "File I/O in Python",
+    "time1": "1h",
+    "sub2": "Log file parsing",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-29",
+    "topic": "Python + SystemVerilog hybrid flow demo",
+    "duration": "3 hrs",
+    "sub1": "Python + SV integration",
+    "time1": "1h",
+    "sub2": "SV integration scripting",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-30",
+    "topic": "Automate testbench tasks with Python",
+    "duration": "3 hrs",
+    "sub1": "Automation scripting",
+    "time1": "1h",
+    "sub2": "Automation pipelines",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-08-31",
+    "topic": "GitHub portfolio setup and management",
+    "duration": "3 hrs",
+    "sub1": "GitHub setup",
+    "time1": "0.5h",
+    "sub2": "Portfolio publishing",
+    "time2": "0.5h",
+    "completed": false
+  },
+  {
+    "date": "2025-09-01",
+    "topic": "LinkedIn weekly progress post #1",
+    "duration": "3 hrs",
+    "sub1": "LinkedIn share #1",
+    "time1": "0.5h",
+    "sub2": "Weekly posting",
+    "time2": "0.5h",
+    "completed": false
+  },
+  {
+    "date": "2025-09-02",
+    "topic": "Multi-master bus verification project",
+    "duration": "3 hrs",
+    "sub1": "Multi-master bus",
+    "time1": "2h",
+    "sub2": "Bus arbitration",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-09-03",
+    "topic": "Cache controller verification project",
+    "duration": "3 hrs",
+    "sub1": "Cache controller",
+    "time1": "1h",
+    "sub2": "Cache MSM",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-09-04",
+    "topic": "Interrupt controller verification project",
+    "duration": "3 hrs",
+    "sub1": "Interrupt controller",
+    "time1": "1h",
+    "sub2": "Interrupt prioritization",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-09-05",
+    "topic": "DMA engine verification project",
+    "duration": "3 hrs",
+    "sub1": "DMA engine",
+    "time1": "1h",
+    "sub2": "DMA burst transfers",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-09-06",
+    "topic": "Video codec engine verification project",
+    "duration": "3 hrs",
+    "sub1": "Video codec engine",
+    "time1": "1h",
+    "sub2": "Video decompression",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-09-07",
+    "topic": "Cryptographic accelerator verification",
+    "duration": "3 hrs",
+    "sub1": "Crypto accelerator",
+    "time1": "1h",
+    "sub2": "Crypto algorithms",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-09-08",
+    "topic": "Open-source UVM/Python utility project",
+    "duration": "3 hrs",
+    "sub1": "Open-source Utils",
+    "time1": "1h",
+    "sub2": "Public repo contributions",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-09-09",
+    "topic": "Practice Q&A: functional vs code coverage",
+    "duration": "3 hrs",
+    "sub1": "Functional vs code coverage",
+    "time1": "1h",
+    "sub2": "Coverage analysis tools",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-09-10",
+    "topic": "Practice Q&A: race conditions in SystemVerilog",
+    "duration": "3 hrs",
+    "sub1": "Race conditions in SV",
+    "time1": "0.5h",
+    "sub2": "Race conditions debugging",
+    "time2": "0.5h",
+    "completed": false
+  },
+  {
+    "date": "2025-09-11",
+    "topic": "Practice Q&A: how to write a scoreboard",
+    "duration": "3 hrs",
+    "sub1": "Scoreboard construction",
+    "time1": "0.5h",
+    "sub2": "Scoreboard refinement",
+    "time2": "0.5h",
+    "completed": false
+  },
+  {
+    "date": "2025-09-12",
+    "topic": "Practice Q&A: UVM phases overview",
+    "duration": "3 hrs",
+    "sub1": "UVM phase overview",
+    "time1": "0.5h",
+    "sub2": "Phases & schedules",
+    "time2": "0.5h",
+    "completed": false
+  },
+  {
+    "date": "2025-09-13",
+    "topic": "Practice Q&A: SystemVerilog randomization traps",
+    "duration": "3 hrs",
+    "sub1": "Randomization traps",
+    "time1": "0.5h",
+    "sub2": "Random seed control",
+    "time2": "0.5h",
+    "completed": false
+  },
+  {
+    "date": "2025-09-14",
+    "topic": "Practice Q&A: CDC verification methods",
+    "duration": "3 hrs",
+    "sub1": "CDC verification",
+    "time1": "0.5h",
+    "sub2": "CDC tests",
+    "time2": "0.5h",
+    "completed": false
+  },
+  {
+    "date": "2025-09-15",
+    "topic": "Practice Q&A: protocol handshake sequencing",
+    "duration": "3 hrs",
+    "sub1": "Protocol handshake",
+    "time1": "0.5h",
+    "sub2": "Handshake protocols",
+    "time2": "0.5h",
+    "completed": false
+  },
+  {
+    "date": "2025-09-16",
+    "topic": "GitHub commit & LinkedIn post #2",
+    "duration": "3 hrs",
+    "sub1": "LinkedIn share #2",
+    "time1": "0.5h",
+    "sub2": "Weekly updates",
+    "time2": "0.5h",
+    "completed": false
+  },
+  {
+    "date": "2025-09-17",
+    "topic": "SoC integration testbench project",
+    "duration": "3 hrs",
+    "sub1": "SoC integration",
+    "time1": "0.5h",
+    "sub2": "SoC verification",
+    "time2": "0.5h",
+    "completed": false
+  },
+  {
+    "date": "2025-09-18",
+    "topic": "Low-power handshake protocol",
+    "duration": "3 hrs",
+    "sub1": "Low-power handshake",
+    "time1": "1h",
+    "sub2": "Power domain handshake",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-09-19",
+    "topic": "AXI4 full protocol verification",
+    "duration": "3 hrs",
+    "sub1": "AXI full protocol",
+    "time1": "1h",
+    "sub2": "AXI burst transfers",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-09-20",
+    "topic": "RISC-V bus functional model",
+    "duration": "3 hrs",
+    "sub1": "RISC-V bus model",
+    "time1": "1h",
+    "sub2": "RISC-V packet formats",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-09-21",
+    "topic": "Industry networking strategy #1",
+    "duration": "3 hrs",
+    "sub1": "Networking #1",
+    "time1": "1h",
+    "sub2": "LinkedIn connections",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-09-22",
+    "topic": "Mock interview session #1",
+    "duration": "3 hrs",
+    "sub1": "Mock interview #1",
+    "time1": "1h",
+    "sub2": "Interview mockups",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-09-23",
+    "topic": "Aptitude practice session #1",
+    "duration": "3 hrs",
+    "sub1": "Aptitude #1",
+    "time1": "0.5h",
+    "sub2": "Quantitative aptitude",
+    "time2": "0.5h",
+    "completed": false
+  },
+  {
+    "date": "2025-09-24",
+    "topic": "English: self-introduction practice",
+    "duration": "3 hrs",
+    "sub1": "Self-intro English",
+    "time1": "1h",
+    "sub2": "Storytelling skills",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-09-25",
+    "topic": "English: project explanation practice",
+    "duration": "3 hrs",
+    "sub1": "Project explanation",
+    "time1": "1h",
+    "sub2": "Presentation practice",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-09-26",
+    "topic": "RISC-V core verification project \ud83c\udf1f",
+    "duration": "3 hrs",
+    "sub1": "RISC-V core \ud83c\udf1f",
+    "time1": "1h",
+    "sub2": "RISC-V custom instructions",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-09-27",
+    "topic": "RISC-V custom ISA extension project \ud83c\udf1f",
+    "duration": "3 hrs",
+    "sub1": "Custom ISA extension \ud83c\udf1f",
+    "time1": "1h",
+    "sub2": "Custom ISA debugging",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-09-28",
+    "topic": "AI-accelerator memory controller with Python project \ud83c\udf1f",
+    "duration": "3 hrs",
+    "sub1": "AI memctrl w/Python \ud83c\udf1f",
+    "time1": "1h",
+    "sub2": "Python automation frameworks",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-09-29",
+    "topic": "Formal PCIe Gen4 verification framework \ud83c\udf1f",
+    "duration": "3 hrs",
+    "sub1": "Formal PCIe Gen4 \ud83c\udf1f",
+    "time1": "1h",
+    "sub2": "PCIe Gen4 formal checks",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-09-30",
+    "topic": "Network switch testbench project",
+    "duration": "3 hrs",
+    "sub1": "Network switch TB",
+    "time1": "1h",
+    "sub2": "Switch packet routing",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-01",
+    "topic": "High-speed SerDes verification",
+    "duration": "3 hrs",
+    "sub1": "SerDes verification",
+    "time1": "1h",
+    "sub2": "SerDes signal integrity",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-02",
+    "topic": "Multicore cache coherency verification",
+    "duration": "3 hrs",
+    "sub1": "Cache coherency",
+    "time1": "1h",
+    "sub2": "Cache coherence protocols",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-03",
+    "topic": "Video SoC verification project",
+    "duration": "3 hrs",
+    "sub1": "Video SoC",
+    "time1": "1h",
+    "sub2": "Video encoding verification",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-04",
+    "topic": "Power-domain crossing testbench",
+    "duration": "3 hrs",
+    "sub1": "Power domain crossing",
+    "time1": "1h",
+    "sub2": "Power domain verification",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-05",
+    "topic": "UVM portable stimulus introduction",
+    "duration": "3 hrs",
+    "sub1": "Portable stimulus intro",
+    "time1": "1h",
+    "sub2": "Portable stimulus scripts",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-06",
+    "topic": "SystemC/TLM basics",
+    "duration": "3 hrs",
+    "sub1": "SystemC TLM",
+    "time1": "1h",
+    "sub2": "Transaction level modeling",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-07",
+    "topic": "Practice Q&A: formal vs simulation verification",
+    "duration": "3 hrs",
+    "sub1": "Formal vs simulation",
+    "time1": "1h",
+    "sub2": "Simulation verification",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-08",
+    "topic": "Practice Q&A: UVM factory overrides",
+    "duration": "3 hrs",
+    "sub1": "Factory overrides",
+    "time1": "1h",
+    "sub2": "Factory patterns",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-09",
+    "topic": "Practice Q&A: backdoor vs frontdoor access",
+    "duration": "3 hrs",
+    "sub1": "Backdoor access",
+    "time1": "1h",
+    "sub2": "Backdoor access techniques",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-10",
+    "topic": "Practice Q&A: scoreboard edge cases",
+    "duration": "3 hrs",
+    "sub1": "Scoreboard edges",
+    "time1": "1h",
+    "sub2": "Scoreboard race conditions",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-11",
+    "topic": "Practice Q&A: coverage closure strategies",
+    "duration": "3 hrs",
+    "sub1": "Coverage closure",
+    "time1": "1h",
+    "sub2": "Closure strategies",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-12",
+    "topic": "GitHub commit & LinkedIn post #3",
+    "duration": "3 hrs",
+    "sub1": "LinkedIn share #3",
+    "time1": "1h",
+    "sub2": "Updates sharing",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-13",
+    "topic": "Mock interview session #2",
+    "duration": "3 hrs",
+    "sub1": "Mock interview #2",
+    "time1": "1h",
+    "sub2": "Interview technicals",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-14",
+    "topic": "Aptitude practice session #2",
+    "duration": "3 hrs",
+    "sub1": "Aptitude #2",
+    "time1": "1h",
+    "sub2": "Aptitude drills",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-15",
+    "topic": "English: debug explanation practice",
+    "duration": "3 hrs",
+    "sub1": "Debug explanation",
+    "time1": "1h",
+    "sub2": "Debugging sessions",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-16",
+    "topic": "Industry networking strategy #2",
+    "duration": "3 hrs",
+    "sub1": "Networking #2",
+    "time1": "1h",
+    "sub2": "Networking activities",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-17",
+    "topic": "USB 3.0 protocol testbench project",
+    "duration": "3 hrs",
+    "sub1": "USB3 protocol TB",
+    "time1": "1h",
+    "sub2": "USB3 data lanes",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-18",
+    "topic": "DDR4 PHY verification project",
+    "duration": "3 hrs",
+    "sub1": "DDR4 PHY",
+    "time1": "1h",
+    "sub2": "DDR PHY calibration",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-19",
+    "topic": "PCIe Gen4 switch verification project",
+    "duration": "3 hrs",
+    "sub1": "PCIe Gen4 switch",
+    "time1": "1h",
+    "sub2": "Switch crossbar policies",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-20",
+    "topic": "Ethernet 10G MAC verification",
+    "duration": "3 hrs",
+    "sub1": "10G Ethernet MAC",
+    "time1": "1h",
+    "sub2": "Ethernet 10G PHY",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-21",
+    "topic": "AI accelerator SoC testbench",
+    "duration": "3 hrs",
+    "sub1": "AI SoC TB",
+    "time1": "1h",
+    "sub2": "AI accelerator integration",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-22",
+    "topic": "RISC-V DV flow integration",
+    "duration": "3 hrs",
+    "sub1": "RISC-V DV flow",
+    "time1": "1h",
+    "sub2": "RISC-V flow improvements",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-23",
+    "topic": "UVM VIP development",
+    "duration": "3 hrs",
+    "sub1": "UVM VIP dev",
+    "time1": "1h",
+    "sub2": "VIP extensions",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-24",
+    "topic": "Metrics & reporting automation tool",
+    "duration": "3 hrs",
+    "sub1": "Reporting tool",
+    "time1": "1h",
+    "sub2": "Metrics dashboards",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-25",
+    "topic": "System-level regression suite",
+    "duration": "3 hrs",
+    "sub1": "Regression suite",
+    "time1": "1h",
+    "sub2": "Regression workflows",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-26",
+    "topic": "Mock interview session #3",
+    "duration": "3 hrs",
+    "sub1": "Mock interview #3",
+    "time1": "1h",
+    "sub2": "Mock interviews continued",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-27",
+    "topic": "Mock interview session #4",
+    "duration": "3 hrs",
+    "sub1": "Mock interview #4",
+    "time1": "1h",
+    "sub2": "HR rounds practice",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-28",
+    "topic": "Resume final polish",
+    "duration": "3 hrs",
+    "sub1": "Resume polish",
+    "time1": "1h",
+    "sub2": "Resume optimization",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-29",
+    "topic": "GitHub portfolio final push",
+    "duration": "3 hrs",
+    "sub1": "GitHub final push",
+    "time1": "1h",
+    "sub2": "GitHub branding",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-30",
+    "topic": "LinkedIn weekly progress post #4",
+    "duration": "3 hrs",
+    "sub1": "LinkedIn share #4",
+    "time1": "1h",
+    "sub2": "LinkedIn job search",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-10-31",
+    "topic": "Job applications batch #1",
+    "duration": "3 hrs",
+    "sub1": "Job app batch #1",
+    "time1": "1h",
+    "sub2": "Application tracking",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-11-01",
+    "topic": "Job applications batch #2",
+    "duration": "3 hrs",
+    "sub1": "Job app batch #2",
+    "time1": "1h",
+    "sub2": "Follow-up emails",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-11-02",
+    "topic": "Job applications batch #3",
+    "duration": "3 hrs",
+    "sub1": "Job app batch #3",
+    "time1": "1h",
+    "sub2": "Aptitude revision",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-11-03",
+    "topic": "Follow-up communication strategy",
+    "duration": "3 hrs",
+    "sub1": "Follow-up strategy",
+    "time1": "1h",
+    "sub2": "Interview Q&A",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-11-04",
+    "topic": "Aptitude practice session #3",
+    "duration": "3 hrs",
+    "sub1": "Aptitude #3",
+    "time1": "1h",
+    "sub2": "Live coding problems",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-11-05",
+    "topic": "English interview Q&A practice",
+    "duration": "3 hrs",
+    "sub1": "English interview Q&A",
+    "time1": "1h",
+    "sub2": "Bug bounties & fixes",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-11-06",
+    "topic": "Live problem solving practice",
+    "duration": "3 hrs",
+    "sub1": "Live problem solving",
+    "time1": "1h",
+    "sub2": "Protocol tracing",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-11-07",
+    "topic": "Bug hunt and debug scenarios",
+    "duration": "3 hrs",
+    "sub1": "Bug hunt",
+    "time1": "1h",
+    "sub2": "Weekly reports",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-11-08",
+    "topic": "Protocol debug deep dive",
+    "duration": "3 hrs",
+    "sub1": "Protocol debug",
+    "time1": "1h",
+    "sub2": "Industry contacts",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-11-09",
+    "topic": "GitHub commit & LinkedIn post #5",
+    "duration": "3 hrs",
+    "sub1": "LinkedIn share #5",
+    "time1": "1h",
+    "sub2": "Final system tests",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-11-10",
+    "topic": "Industry networking strategy #3",
+    "duration": "3 hrs",
+    "sub1": "Networking #3",
+    "time1": "1h",
+    "sub2": "Regression coverage",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-11-11",
+    "topic": "Final SoC smoke test project",
+    "duration": "3 hrs",
+    "sub1": "SoC smoke test",
+    "time1": "1h",
+    "sub2": "VIP polish",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-11-12",
+    "topic": "Final regression coverage analysis",
+    "duration": "3 hrs",
+    "sub1": "Regression coverage",
+    "time1": "1h",
+    "sub2": "Automation tuning",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-11-13",
+    "topic": "VIP upgrade project",
+    "duration": "3 hrs",
+    "sub1": "VIP upgrade",
+    "time1": "1h",
+    "sub2": "Design docs",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-11-14",
+    "topic": "Automation suite enhancement",
+    "duration": "3 hrs",
+    "sub1": "Automation suite",
+    "time1": "1h",
+    "sub2": "Performance baseline",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-11-15",
+    "topic": "Design review documentation",
+    "duration": "3 hrs",
+    "sub1": "Design doc",
+    "time1": "1h",
+    "sub2": "Topic revision",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-11-16",
+    "topic": "Performance metrics evaluation",
+    "duration": "3 hrs",
+    "sub1": "Performance metrics",
+    "time1": "1h",
+    "sub2": "Hackathon prep",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-11-17",
+    "topic": "Backup topic review & catch-up",
+    "duration": "3 hrs",
+    "sub1": "Backup review",
+    "time1": "1h",
+    "sub2": "Mock site interviews",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-11-18",
+    "topic": "Mock hackathon/coding test event",
+    "duration": "3 hrs",
+    "sub1": "Mock hackathon",
+    "time1": "1h",
+    "sub2": "Communication drills",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-11-19",
+    "topic": "Mock on-site interview simulation",
+    "duration": "3 hrs",
+    "sub1": "Mock on-site",
+    "time1": "1h",
+    "sub2": "Final aptitude",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-11-20",
+    "topic": "Final English communication prep",
+    "duration": "3 hrs",
+    "sub1": "English prep",
+    "time1": "1h",
+    "sub2": "System Q&A",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-11-21",
+    "topic": "Final aptitude preparation",
+    "duration": "3 hrs",
+    "sub1": "Aptitude prep",
+    "time1": "1h",
+    "sub2": "Overall review",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-11-22",
+    "topic": "Final system-level Q&A",
+    "duration": "3 hrs",
+    "sub1": "Sys-level Q&A",
+    "time1": "1h",
+    "sub2": "Relax & focus",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-11-23",
+    "topic": "Overall final review",
+    "duration": "3 hrs",
+    "sub1": "Final review",
+    "time1": "1h",
+    "sub2": "Job readiness",
+    "time2": "1h",
+    "completed": false
+  },
+  {
+    "date": "2025-11-24",
+    "topic": "Relaxation and confidence building",
+    "duration": "3 hrs",
+    "sub1": "Relax & confidence",
+    "time1": "1h",
+    "sub2": "Celebrate success",
+    "time2": "1h",
+    "completed": false
+  }
+]
